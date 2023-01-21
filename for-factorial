@@ -24,7 +24,7 @@ unsigned long long toUnsignedLongLong(){
 // Flag
 
 void flagError(){
-    printf("\we dont support that value !!! :(\nResult too Large for dtype.\n");
+    printf("\we dont support that value !!!(\result too Large for dtype.\n");
 }
 
 // FACTORIAL FUNCTIONS:
@@ -33,7 +33,7 @@ void flagError(){
 
 void factorialInt(int factorial){
     
-        /*Factorial Machine*/
+   /*Factorial Machine*/
    
     int v = 1;
     int control;
